@@ -1,4 +1,4 @@
-# Nikhil Pawar - Neobrutalist Portfolio
+# Yash Pawar - Neobrutalist Portfolio
 
 A stunning, professional portfolio website built with React and a bold neobrutalist aesthetic. This portfolio showcases your work, skills, and experience with confidence and style.
 
@@ -88,16 +88,19 @@ This portfolio embraces **Neobrutalism** - a raw, structural design approach fea
 ### Installation
 
 1. Clone the repository (or you're already here!)
+
 ```bash
 cd Portfolio-Y
 ```
 
 2. Install dependencies
+
 ```bash
 npm install
 ```
 
 3. Start development server
+
 ```bash
 npm run dev
 ```
@@ -120,10 +123,10 @@ Edit the CSS custom properties in `src/App.css`:
 
 ```css
 :root {
-  --accent-1: #FF3366;  /* Primary accent */
-  --accent-2: #6B4CE6;  /* Secondary accent */
-  --accent-3: #FFD93D;  /* Tertiary accent */
-  --accent-4: #00D9FF;  /* Quaternary accent */
+  --accent-1: #ff3366; /* Primary accent */
+  --accent-2: #6b4ce6; /* Secondary accent */
+  --accent-3: #ffd93d; /* Tertiary accent */
+  --accent-4: #00d9ff; /* Quaternary accent */
 }
 ```
 
@@ -140,6 +143,7 @@ Edit the CSS custom properties in `src/App.css`:
 ### Typography
 
 The portfolio uses Google Fonts:
+
 - **Space Grotesk**: Main text
 - **Space Mono**: Monospace/code elements
 
@@ -226,17 +230,20 @@ Feel free to fork this project and customize it for your own portfolio!
 ## 🐛 Troubleshooting
 
 ### Port Already in Use
+
 ```bash
 npm run dev -- --port 3000
 ```
 
 ### Build Errors
+
 ```bash
 rm -rf node_modules package-lock.json
 npm install
 ```
 
 ### Styling Issues
+
 Clear browser cache or use incognito mode
 
 ## 📞 Support
@@ -247,4 +254,4 @@ For questions or issues, feel free to reach out or open an issue.
 
 **Built with ❤️ using React, Vite, and lots of ☕**
 
-Made by Nikhil Pawar © 2025
+Made by Yash Pawar © 2025
